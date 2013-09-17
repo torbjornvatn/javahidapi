@@ -7,6 +7,7 @@ A fork of the javahidapi library made by Codeminders
 
 I've just rearranged the native lib layout a bit to make it work with leiningen and Clojure
 
+```bash
 native/
 ├── linux
 │   ├── arm
@@ -25,3 +26,4 @@ native/
     │   └── hidapi-jni-32.dll
     └── x86_64
         └── hidapi-jni-64.dll
+```
