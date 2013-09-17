@@ -15,7 +15,7 @@
     <property name="dist" location="dist" />
     
     <!-- define Maven coordinates -->
-    <property name="groupId" value="com.codeminders" />
+    <property name="groupId" value="org.clojars.torbjornvatn" />
     <property name="artifactId" value="hidapi" />
     <property name="version" value="1.1" />
 
